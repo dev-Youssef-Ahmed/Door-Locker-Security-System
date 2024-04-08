@@ -1,0 +1,124 @@
+ /******************************************************************************
+ *
+ * Module: LCD
+ *
+ * File Name: lcd.h
+ *
+ * Description: Header file for the LCD driver
+ *
+ * Author: Mohamed Tarek
+ *
+ *******************************************************************************/
+
+#ifndef LCD_H_
+#define LCD_H_
+
+#include "std_types.h"
+
+/*******************************************************************************
+ *                                Definitions                                  *
+ *******************************************************************************/
+
+/* LCD HW Ports and Pins Ids */
+#define LCD_RS_PORT_ID                 PORTB_ID
+#define LCD_RS_PIN_ID                  PIN0_ID
+
+#define LCD_E_PORT_ID                  PORTB_ID
+#define LCD_E_PIN_ID                   PIN1_ID
+
+#define LCD_DATA_PORT_ID               PORTA_ID
+
+/* LCD Commands */
+#define LCD_CLEAR_COMMAND              0x01
+#define LCD_GO_TO_HOME                 0x02
+#define LCD_TWO_LINES_EIGHT_BITS_MODE  0x38
+#define LCD_TWO_LINES_FOUR_BITS_MODE   0x28
+#define LCD_CURSOR_OFF                 0x0C
+#define LCD_CURSOR_ON                  0x0E
+#define LCD_SET_CURSOR_LOCATION        0x80
+
+/* 2x16 LCD Rows and Columns */
+enum
+{
+	ROW_0,
+	ROW_1,
+	ROW_2,
+	ROW_3
+}	LCD_ROW;
+
+enum
+{
+	COL_0,
+	COL_1,
+	COL_2,
+	COL_3,
+	COL_4,
+	COL_5,
+	COL_6,
+	COL_7,
+	COL_8,
+	COL_9,
+	COL_10,
+	COL_11,
+	COL_12,
+	COL_13,
+	COL_14,
+	COL_15
+}	LCD_COL;
+
+
+/*******************************************************************************
+ *                      Functions Prototypes                                   *
+ *******************************************************************************/
+
+/*
+ * Description :
+ * Initialize the LCD:
+ * 1. Setup the LCD pins directions by use the GPIO driver.
+ * 2. Setup the LCD Data Mode 4-bits or 8-bits.
+ */
+void LCD_init(void);
+
+/*
+ * Description :
+ * Send the required command to the screen
+ */
+void LCD_sendCommand(uint8 command);
+
+/*
+ * Description :
+ * Display the required character on the screen
+ */
+void LCD_displayCharacter(uint8 data);
+
+/*
+ * Description :
+ * Display the required string on the screen
+ */
+void LCD_displayString(const char *Str);
+
+/*
+ * Description :
+ * Move the cursor to a specified row and column index on the screen
+ */
+void LCD_moveCursor(uint8 row,uint8 col);
+
+/*
+ * Description :
+ * Display the required string in a specified row and column index on the screen
+ */
+void LCD_displayStringRowColumn(uint8 row,uint8 col,const char *Str);
+
+/*
+ * Description :
+ * Display the required decimal value on the screen
+ */
+void LCD_intgerToString(int data);
+
+/*
+ * Description :
+ * Send the clear screen command
+ */
+void LCD_clearScreen(void);
+
+#endif /* LCD_H_ */

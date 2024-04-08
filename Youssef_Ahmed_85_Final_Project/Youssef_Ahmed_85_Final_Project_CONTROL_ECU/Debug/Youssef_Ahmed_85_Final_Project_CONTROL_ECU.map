@@ -1,0 +1,898 @@
+Archive member included because of file (symbol)
+
+d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              ./src/uart.o (__udivmodsi4)
+d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./src/application.o (__do_copy_data)
+d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./src/application.o (__do_clear_bss)
+d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./src/external_eeprom.o (__fixunssfsi)
+d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__subsf3)
+d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./src/external_eeprom.o (__mulsf3)
+d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./src/external_eeprom.o (__gtsf2)
+d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./src/external_eeprom.o (__ltsf2)
+d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+                              ./src/pwm.o (__floatsisf)
+d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                              d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o) (__clzsi2)
+d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                              d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o) (__clz_tab)
+
+Allocating common symbols
+Common symbol       size              file
+
+g_bytes_recieved    0x1               ./src/application.o
+g_password          0x4               ./src/application.o
+g_password_state    0x1               ./src/application.o
+g_TX_frame          0x2               ./src/application.o
+g_RX_frame          0x5               ./src/application.o
+g_RX_ready_flag     0x1               ./src/application.o
+g_Timer1_mode_of_operation
+                    0x1               ./src/timer1.o
+g_invalid_mismatche_trials
+                    0x1               ./src/application.o
+timer1_counter      0x1               ./src/timer1.o
+g_invalid_enter_password_trials
+                    0x1               ./src/application.o
+g_current_control_state
+                    0x1               ./src/main.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./src/application.o
+LOAD ./src/buzzer.o
+LOAD ./src/external_eeprom.o
+LOAD ./src/gpio.o
+LOAD ./src/int2.o
+LOAD ./src/main.o
+LOAD ./src/motor.o
+LOAD ./src/pwm.o
+LOAD ./src/timer1.o
+LOAD ./src/twi.o
+LOAD ./src/uart.o
+LOAD d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2d60
+ *(.vectors)
+ .vectors       0x00000000       0x54 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_1
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_6
+                0x0000008e                __vector_11
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_5
+                0x0000008e                __vector_4
+                0x0000008e                __vector_2
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_10
+                0x0000008e                __vector_16
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 ./src/application.o
+ .text          0x00000092        0x0 ./src/buzzer.o
+ .text          0x00000092        0x0 ./src/external_eeprom.o
+ .text          0x00000092        0x0 ./src/gpio.o
+ .text          0x00000092        0x0 ./src/int2.o
+ .text          0x00000092        0x0 ./src/main.o
+ .text          0x00000092        0x0 ./src/motor.o
+ .text          0x00000092        0x0 ./src/pwm.o
+ .text          0x00000092        0x0 ./src/timer1.o
+ .text          0x00000092        0x0 ./src/twi.o
+ .text          0x00000092        0x0 ./src/uart.o
+ .text          0x00000092        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000092        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000092        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000092        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000092       0x58 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000092                __fixunssfsi
+ .text          0x000000ea      0x354 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x00000382                __subsf3
+                0x000003e4                __addsf3
+ .text          0x0000043e      0x1f4 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x0000043e                __mulsf3
+ .text          0x00000632       0x60 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x00000632                __gtsf2
+ .text          0x00000692       0x60 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x00000692                __gesf2
+ .text          0x000006f2       0x60 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x000006f2                __ltsf2
+ .text          0x00000752       0xbc d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+                0x00000752                __floatsisf
+ .text          0x0000080e       0xa8 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x0000080e                __fixsfsi
+ .text          0x000008b6        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x000008b6        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x000008b6        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x000008b6       0x9e d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                0x000008b6                __clzsi2
+ .text          0x00000954      0x1aa d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x00000954                __pack_f
+ .text          0x00000afe       0xf0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x00000afe                __unpack_f
+ .text          0x00000bee       0xb2 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000bee                __fpcmp_parts_f
+ .text          0x00000ca0        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x00000ca0                . = ALIGN (0x2)
+ *(.text.*)
+ .text.APP_init
+                0x00000ca0      0x10c ./src/application.o
+                0x00000ca0                APP_init
+ .text.APP_vFirstRunState
+                0x00000dac       0x6c ./src/application.o
+                0x00000dac                APP_vFirstRunState
+ .text.APP_vNewPasswordState
+                0x00000e18       0x66 ./src/application.o
+                0x00000e18                APP_vNewPasswordState
+ .text.APP_vConfirmNewPasswordState
+                0x00000e7e       0xd2 ./src/application.o
+                0x00000e7e                APP_vConfirmNewPasswordState
+ .text.APP_vMatchedPasswordState
+                0x00000f50      0x124 ./src/application.o
+                0x00000f50                APP_vMatchedPasswordState
+ .text.APP_vMisMacthedPasswordState
+                0x00001074       0x6e ./src/application.o
+                0x00001074                APP_vMisMacthedPasswordState
+ .text.APP_vEnterThePasswordState
+                0x000010e2       0xf8 ./src/application.o
+                0x000010e2                APP_vEnterThePasswordState
+ .text.APP_vMainMenuState
+                0x000011da       0x8c ./src/application.o
+                0x000011da                APP_vMainMenuState
+ .text.APP_vDoorOpenState
+                0x00001266       0x56 ./src/application.o
+                0x00001266                APP_vDoorOpenState
+ .text.APP_vDoorHoldState
+                0x000012bc       0x56 ./src/application.o
+                0x000012bc                APP_vDoorHoldState
+ .text.APP_vDoorCloseState
+                0x00001312       0x5e ./src/application.o
+                0x00001312                APP_vDoorCloseState
+ .text.APP_vWrongPasswordState
+                0x00001370       0x48 ./src/application.o
+                0x00001370                APP_vWrongPasswordState
+ .text.APP_vLockSystemState
+                0x000013b8       0x56 ./src/application.o
+                0x000013b8                APP_vLockSystemState
+ .text.APP_u32RecievePasswordUART
+                0x0000140e       0xa4 ./src/application.o
+                0x0000140e                APP_u32RecievePasswordUART
+ .text.APP_u32PasswordInEEPROM
+                0x000014b2       0xa8 ./src/application.o
+                0x000014b2                APP_u32PasswordInEEPROM
+ .text.APP_vSendPasswordToEEPROM
+                0x0000155a       0x90 ./src/application.o
+                0x0000155a                APP_vSendPasswordToEEPROM
+ .text.APP_vTimer1NormalCallback
+                0x000015ea       0x7c ./src/application.o
+                0x000015ea                APP_vTimer1NormalCallback
+ .text.APP_vTimer1CTCCallback
+                0x00001666       0x24 ./src/application.o
+                0x00001666                APP_vTimer1CTCCallback
+ .text.APP_vUartRxCallback
+                0x0000168a       0x58 ./src/application.o
+                0x0000168a                APP_vUartRxCallback
+ .text.APP_vINT2softResetCallBack
+                0x000016e2       0x44 ./src/application.o
+                0x000016e2                APP_vINT2softResetCallBack
+ .text.Buzzer_init
+                0x00001726       0x22 ./src/buzzer.o
+                0x00001726                Buzzer_init
+ .text.Buzzer_off
+                0x00001748       0x18 ./src/buzzer.o
+                0x00001748                Buzzer_off
+ .text.Buzzer_on
+                0x00001760       0x18 ./src/buzzer.o
+                0x00001760                Buzzer_on
+ .text.EEPROM_writeByte
+                0x00001778      0x172 ./src/external_eeprom.o
+                0x00001778                EEPROM_writeByte
+ .text.EEPROM_readByte
+                0x000018ea      0x1ac ./src/external_eeprom.o
+                0x000018ea                EEPROM_readByte
+ .text.GPIO_setupPinDirection
+                0x00001a96      0x1d6 ./src/gpio.o
+                0x00001a96                GPIO_setupPinDirection
+ .text.GPIO_writePin
+                0x00001c6c      0x1d6 ./src/gpio.o
+                0x00001c6c                GPIO_writePin
+ .text.GPIO_readPin
+                0x00001e42      0x136 ./src/gpio.o
+                0x00001e42                GPIO_readPin
+ .text.GPIO_setupPortDirection
+                0x00001f78       0x88 ./src/gpio.o
+                0x00001f78                GPIO_setupPortDirection
+ .text.GPIO_writePort
+                0x00002000       0x88 ./src/gpio.o
+                0x00002000                GPIO_writePort
+ .text.GPIO_readPort
+                0x00002088       0x8a ./src/gpio.o
+                0x00002088                GPIO_readPort
+ .text.__vector_3
+                0x00002112       0x66 ./src/int2.o
+                0x00002112                __vector_3
+ .text.INT2_setCallBack
+                0x00002178       0x24 ./src/int2.o
+                0x00002178                INT2_setCallBack
+ .text.INT2_init
+                0x0000219c       0x46 ./src/int2.o
+                0x0000219c                INT2_init
+ .text.main     0x000021e2      0x102 ./src/main.o
+                0x000021e2                main
+ .text.DcMotor_Init
+                0x000022e4       0x66 ./src/motor.o
+                0x000022e4                DcMotor_Init
+ .text.DcMotor_Rotate
+                0x0000234a       0xb4 ./src/motor.o
+                0x0000234a                DcMotor_Rotate
+ .text.Timer0_PWM_Init
+                0x000023fe       0x76 ./src/pwm.o
+                0x000023fe                Timer0_PWM_Init
+ .text.__vector_9
+                0x00002474       0x66 ./src/timer1.o
+                0x00002474                __vector_9
+ .text.__vector_7
+                0x000024da       0x66 ./src/timer1.o
+                0x000024da                __vector_7
+ .text.TIMER1_vStartTimerNormal
+                0x00002540       0x7e ./src/timer1.o
+                0x00002540                TIMER1_vStartTimerNormal
+ .text.TIMER1_vStartTimerCTC
+                0x000025be       0x7e ./src/timer1.o
+                0x000025be                TIMER1_vStartTimerCTC
+ .text.TIMER1_vStartTimer
+                0x0000263c       0x48 ./src/timer1.o
+                0x0000263c                TIMER1_vStartTimer
+ .text.Timer1_init
+                0x00002684       0xe4 ./src/timer1.o
+                0x00002684                Timer1_init
+ .text.Timer1_deInit
+                0x00002768       0x3e ./src/timer1.o
+                0x00002768                Timer1_deInit
+ .text.Timer1_setCallBack
+                0x000027a6       0x38 ./src/timer1.o
+                0x000027a6                Timer1_setCallBack
+ .text.TWI_init
+                0x000027de       0x4e ./src/twi.o
+                0x000027de                TWI_init
+ .text.TWI_start
+                0x0000282c       0x20 ./src/twi.o
+                0x0000282c                TWI_start
+ .text.TWI_stop
+                0x0000284c       0x16 ./src/twi.o
+                0x0000284c                TWI_stop
+ .text.TWI_writeByte
+                0x00002862       0x2e ./src/twi.o
+                0x00002862                TWI_writeByte
+ .text.TWI_readByteWithACK
+                0x00002890       0x26 ./src/twi.o
+                0x00002890                TWI_readByteWithACK
+ .text.TWI_readByteWithNACK
+                0x000028b6       0x26 ./src/twi.o
+                0x000028b6                TWI_readByteWithNACK
+ .text.TWI_getStatus
+                0x000028dc       0x1e ./src/twi.o
+                0x000028dc                TWI_getStatus
+ .text.__vector_13
+                0x000028fa       0x66 ./src/uart.o
+                0x000028fa                __vector_13
+ .text.UARTRX_setCallBack
+                0x00002960       0x24 ./src/uart.o
+                0x00002960                UARTRX_setCallBack
+ .text.UART_Init
+                0x00002984      0x168 ./src/uart.o
+                0x00002984                UART_Init
+ .text.UART_sendByte
+                0x00002aec       0x2e ./src/uart.o
+                0x00002aec                UART_sendByte
+ .text.UART_recieveByte
+                0x00002b1a       0x1e ./src/uart.o
+                0x00002b1a                UART_recieveByte
+ .text.UART_sendString
+                0x00002b38       0x52 ./src/uart.o
+                0x00002b38                UART_sendString
+ .text.UART_receiveString
+                0x00002b8a       0x86 ./src/uart.o
+                0x00002b8a                UART_receiveString
+ .text.UART_sendGolabalFrame
+                0x00002c10       0x48 ./src/uart.o
+                0x00002c10                UART_sendGolabalFrame
+ .text.UART_receiveGlobalFrame
+                0x00002c58       0x52 ./src/uart.o
+                0x00002c58                UART_receiveGlobalFrame
+ .text.libgcc   0x00002caa       0x44 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x00002caa                __udivmodsi4
+ .text.libgcc   0x00002cee        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00002cee        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00002cee        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00002cee       0x38 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x00002cee                __prologue_saves__
+ .text.libgcc   0x00002d26       0x36 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x00002d26                __epilogue_restores__
+                0x00002d5c                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002d5c        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x00002d5c                exit
+                0x00002d5c                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002d5c        0x4 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002d60                _etext = .
+
+.data           0x00800060      0x126 load address 0x00002d60
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./src/application.o
+ .data          0x00800060        0x0 ./src/buzzer.o
+ .data          0x00800060        0x0 ./src/external_eeprom.o
+ .data          0x00800060        0x0 ./src/gpio.o
+ .data          0x00800060        0x0 ./src/int2.o
+ .data          0x00800060        0x0 ./src/main.o
+ .data          0x00800060        0x0 ./src/motor.o
+ .data          0x00800060        0x0 ./src/pwm.o
+ .data          0x00800060        0x0 ./src/timer1.o
+ .data          0x00800060        0x0 ./src/twi.o
+ .data          0x00800060        0x0 ./src/uart.o
+ .data          0x00800060        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00800060        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00800060        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800060        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800060        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x00800060        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x00800060        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x00800060        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x00800060        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x00800060        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x00800060        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .data          0x00800060        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x00800060        0x8 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x00800060                __thenan_sf
+ .data          0x00800068        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x00800068        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x00800068        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .data          0x00800068        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x00800068        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x00800068        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00800068      0x100 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x00800068                __clz_tab
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.C.1.1564
+                0x00800168        0x5 ./src/application.o
+ .rodata.C.0.1563
+                0x0080016d        0x7 ./src/application.o
+ .rodata.C.37.1802
+                0x00800174        0x6 ./src/application.o
+ .rodata.C.0.1577
+                0x0080017a        0x6 ./src/timer1.o
+ .rodata.C.2.1586
+                0x00800180        0x6 ./src/timer1.o
+ *(.gnu.linkonce.d*)
+                0x00800186                . = ALIGN (0x2)
+                0x00800186                _edata = .
+                0x00800186                PROVIDE (__data_end, .)
+
+.bss            0x00800186       0x1e
+                0x00800186                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x00800186        0x0 ./src/application.o
+ .bss           0x00800186        0x0 ./src/buzzer.o
+ .bss           0x00800186        0x0 ./src/external_eeprom.o
+ .bss           0x00800186        0x0 ./src/gpio.o
+ .bss           0x00800186        0x0 ./src/int2.o
+ .bss           0x00800186        0x0 ./src/main.o
+ .bss           0x00800186        0x0 ./src/motor.o
+ .bss           0x00800186        0x0 ./src/pwm.o
+ .bss           0x00800186        0x0 ./src/timer1.o
+ .bss           0x00800186        0x0 ./src/twi.o
+ .bss           0x00800186        0x0 ./src/uart.o
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x00800186        0x0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ *(.bss*)
+ .bss.frame_index.1816
+                0x00800186        0x1 ./src/application.o
+ .bss.g_callBackPtr
+                0x00800187        0x2 ./src/int2.o
+ .bss.motor_state
+                0x00800189        0x1 ./src/motor.o
+ .bss.motor_speed
+                0x0080018a        0x1 ./src/motor.o
+ .bss.Timer1_callbacks
+                0x0080018b        0x4 ./src/timer1.o
+ .bss.g_callBackPtr
+                0x0080018f        0x2 ./src/uart.o
+ *(COMMON)
+ COMMON         0x00800191       0x10 ./src/application.o
+                0x00800191                g_bytes_recieved
+                0x00800192                g_password
+                0x00800196                g_password_state
+                0x00800197                g_TX_frame
+                0x00800199                g_RX_frame
+                0x0080019e                g_RX_ready_flag
+                0x0080019f                g_invalid_mismatche_trials
+                0x008001a0                g_invalid_enter_password_trials
+ COMMON         0x008001a1        0x1 ./src/main.o
+                0x008001a1                g_current_control_state
+ COMMON         0x008001a2        0x2 ./src/timer1.o
+                0x008001a2                g_Timer1_mode_of_operation
+                0x008001a3                timer1_counter
+                0x008001a4                PROVIDE (__bss_end, .)
+                0x00002d60                __data_load_start = LOADADDR (.data)
+                0x00002e86                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008001a4        0x0
+                0x008001a4                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008001a4                PROVIDE (__noinit_end, .)
+                0x008001a4                _end = .
+                0x008001a4                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x38e8
+ *(.stab)
+ .stab          0x00000000     0x15b4 ./src/application.o
+ .stab          0x000015b4      0x1e0 ./src/buzzer.o
+                                0x480 (size before relaxing)
+ .stab          0x00001794      0x4b0 ./src/external_eeprom.o
+                                0x750 (size before relaxing)
+ .stab          0x00001c44      0x5e8 ./src/gpio.o
+                                0x888 (size before relaxing)
+ .stab          0x0000222c      0x228 ./src/int2.o
+                                0x48c (size before relaxing)
+ .stab          0x00002454      0x24c ./src/main.o
+                                0x714 (size before relaxing)
+ .stab          0x000026a0      0x2f4 ./src/motor.o
+                                0x5d0 (size before relaxing)
+ .stab          0x00002994      0x198 ./src/pwm.o
+                                0x444 (size before relaxing)
+ .stab          0x00002b2c      0x4e0 ./src/timer1.o
+                                0x9a8 (size before relaxing)
+ .stab          0x0000300c      0x33c ./src/twi.o
+                                0x5d0 (size before relaxing)
+ .stab          0x00003348      0x5a0 ./src/uart.o
+                                0x87c (size before relaxing)
+
+.stabstr        0x00000000     0x2636
+ *(.stabstr)
+ .stabstr       0x00000000     0x2636 ./src/application.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x180
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000020       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000040       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000060       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x00000080       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000100       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000120       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000140       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000160       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x1d1
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1e d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x0000008c       0x1e d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000aa       0x1e d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x000000c8       0x22 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_pubnames
+                0x000000ea       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x0000010a       0x22 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x0000012c       0x1f d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x0000014b       0x1f d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x0000016a       0x21 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x0000018b       0x26 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_pubnames
+                0x000001b1       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_info     0x00000000     0x2010
+ *(.debug_info)
+ .debug_info    0x00000000       0xb1 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000000b1      0x47a d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000052b      0x485 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x000009b0      0x27f d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x00000c2f      0x27f d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x00000eae      0x27f d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x0000112d      0x207 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_info    0x00001334      0x2b0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x000015e4      0x12c d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001710      0x117 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_info    0x00001827      0x2df d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x00001b06      0x251 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00001d57      0x210 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x00001f67       0xa9 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x1161
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000005d      0x1ea d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000247      0x21b d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000462      0x15a d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000005bc      0x15a d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x00000716      0x15a d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000870      0x148 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_abbrev  0x000009b8      0x17f d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00000b37       0xad d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000be4       0xc4 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00000ca8      0x1c0 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x00000e68      0x154 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00000fbc      0x13b d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x000010f7       0x6a d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_line     0x00000000     0x1003
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000000a7      0x2af d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000356      0x239 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000058f       0xd3 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000662       0xd3 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x00000735       0xd3 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x00000808      0x135 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_line    0x0000093d      0x109 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000a46       0x90 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x00000ad6       0xa5 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_line    0x00000b7b      0x18a d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00000d05      0x14b d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00000e50      0x137 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x00000f87       0x7c d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_frame    0x00000000      0x1a0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000020       0x40 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000060       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000080       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x000000a0       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x000000c0       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x000000e0       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_frame   0x00000100       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x00000120       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000140       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000160       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x00000180       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x2be
+ *(.debug_str)
+ .debug_str     0x00000000       0xbf d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x000000bf      0x14d d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x0000020c       0x27 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000233        0x8 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x0000023b        0x8 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000243        0x8 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x0000024b       0x1e d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+                                0x17b (size before relaxing)
+ .debug_str     0x00000269        0xa d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x00000273       0x20 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                                0x111 (size before relaxing)
+ .debug_str     0x00000293       0x10 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x000002a3        0xb d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x000002ae       0x10 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+ .debug_str     0x00000000       0xf4 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_loc      0x00000000      0x90e
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0x3c d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000049e       0x3c d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x000004da       0x3c d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x00000516       0xac d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_si_to_sf.o)
+ .debug_loc     0x000005c2       0x7e d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00000640       0x94 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_loc     0x000006d4      0x13e d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x00000812       0xac d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x000008be       0x50 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(Youssef_Ahmed_85_Final_Project_CONTROL_ECU.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 d:/academic/mt embedded diploma/0. misc/eclipse/winavr-20240224t165543z-001/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
