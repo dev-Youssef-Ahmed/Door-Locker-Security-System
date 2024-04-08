@@ -7,11 +7,13 @@ There are two Electronic Control Units (ECUs) used here:
 - Human-Machine Interface (HMI) ECU:
 > Is just responsible interaction with the user just take inputs through keypad and display messages on the LCD.
 > HMI_ECU MCAL: GPIO, UART, TIMER1, and INT2.
+
 > HMI_ECU HAL: LCD and KEYPAD.
 
 - Control ECU: 
 > Is responsible for all the processing and decisions in the system like password checking, open the door and activate the system alarm.
 > CONTROL_ECU MCAL: GPIO, UART, TIMER1, INT2, PWM_TIMER0, and I2C.
+
 > CONTROL_ECU HAL: BUZZER, EEPROM, and DC MOTOR.
 
 ![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/1c59b389-1d96-4cb3-a9c7-ad5fcf84e757)
