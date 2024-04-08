@@ -50,43 +50,57 @@ Note 5: The proteus file contain three sheets, the user interface sheet, the ECU
 Finally, here are some screenshots from the project:
 
 1. The User Interface:
+
 ![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/f69e4e19-af33-4531-9e5c-b2a1552f92df)
 
 2. The Welcome message:
+
 ![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/af8e09a3-042f-423d-9b0e-ce9322439aa2)
 
 3. The rules of password:
+
 ![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/25c43899-ee5f-416e-aad0-0581cf74ea21)
 
 4. Enter new password:
+
 ![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/8794a2b5-62f6-4b33-97fc-573798965e69)
 
 5. Confirm password:
+
 ![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/6922e5e1-246f-4f08-9864-0fddde58b827)
 
 6. Passwords matched:
+
 ![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/c0b13b44-3599-4c83-806a-f12b8811a548)
 
 7. Passwords mismatched:
+
 ![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/a641e89e-5539-44a1-8c21-6818749ab1f5)
 
 8. Enter the password:
+
 ![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/9969570d-838e-48ee-85a8-16702181eb12)
 
 9. Main menu:
+
 ![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/1d79a870-9e37-48b7-9ce9-351a8748fb82)
 
 10. Door open:
+
 ![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/67a164e8-ee6b-4c75-a4fe-dd33efd43b68)
 
 11. Door hold:
+
 ![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/3c292ac3-e98f-4786-93d1-b7b2a7f5b65e)
 
 12. Door close:
+
 ![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/9f897e00-c822-41dd-9529-53802b332aec)
 
 13. Wrong password:
+
 ![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/cb1d9c18-b9c3-4ae3-9da7-272055a5b4b7)
 
 14. System locked:
+
 ![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/95bde51d-7915-4c95-a301-51f6f6b94b7d)
