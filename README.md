@@ -1,6 +1,6 @@
 The Door Locker Security System is the final project of Standard Embedded Systems Diploma at Edges for Training Academy, under the expert guidance of Mohamed Tarek.
 
-The project involves creating a password-based door unlocking system. It utilizes various drivers including GPIO, Keypad, LCD, Timer, UART, I2C, INT2, EEPROM, Buzzer, and DC Motor for functionality.
+The project involves creating a password-based door unlocking system using AVR ATmega32. It utilizes various drivers including GPIO, Keypad, LCD, Timer, UART, I2C, INT2, EEPROM, Buzzer, and DC Motor for functionality.
 
 There are two Electronic Control Units (ECUs) used here:
 
