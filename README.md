@@ -55,56 +55,56 @@ Finally, here are some screenshots from the project:
 
 1. The User Interface:
 
-![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/f69e4e19-af33-4531-9e5c-b2a1552f92df)
+![image](https://github.com/dev-Youssef-Ahmed/Door-Locker-Security-System/assets/153888401/3b21960c-b427-4c13-8401-c00b566d7f1c)
 
 2. The Welcome message:
 
-![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/af8e09a3-042f-423d-9b0e-ce9322439aa2)
+![image](https://github.com/dev-Youssef-Ahmed/Door-Locker-Security-System/assets/153888401/91a3d656-2262-4d24-b3d1-cf5e96b1134c)
 
 3. The rules of password:
 
-![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/25c43899-ee5f-416e-aad0-0581cf74ea21)
+![image](https://github.com/dev-Youssef-Ahmed/Door-Locker-Security-System/assets/153888401/f9d524f4-4710-4041-b6fd-e2a480854350)
 
 4. Enter new password:
 
-![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/8794a2b5-62f6-4b33-97fc-573798965e69)
+![image](https://github.com/dev-Youssef-Ahmed/Door-Locker-Security-System/assets/153888401/db21df51-5021-431e-bada-82202f7e0a6c)
 
 5. Confirm password:
 
-![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/6922e5e1-246f-4f08-9864-0fddde58b827)
+![image](https://github.com/dev-Youssef-Ahmed/Door-Locker-Security-System/assets/153888401/90cd6026-1e24-4d73-99ee-023f07155114)
 
 6. Passwords matched:
 
-![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/c0b13b44-3599-4c83-806a-f12b8811a548)
+![image](https://github.com/dev-Youssef-Ahmed/Door-Locker-Security-System/assets/153888401/5967dc97-72ff-4639-ac30-dcb05130f50f)
 
 7. Passwords mismatched:
 
-![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/a641e89e-5539-44a1-8c21-6818749ab1f5)
+![image](https://github.com/dev-Youssef-Ahmed/Door-Locker-Security-System/assets/153888401/544fc52d-4c3e-442a-b80b-cd3b6ac8a2de)
 
 8. Enter the password:
 
-![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/9969570d-838e-48ee-85a8-16702181eb12)
+![image](https://github.com/dev-Youssef-Ahmed/Door-Locker-Security-System/assets/153888401/59009da6-e901-4857-b78b-388eadcb6bbd)
 
 9. Main menu:
 
-![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/1d79a870-9e37-48b7-9ce9-351a8748fb82)
+![image](https://github.com/dev-Youssef-Ahmed/Door-Locker-Security-System/assets/153888401/ef20df61-421b-4c55-8964-ba9d13061f33)
 
 10. Door open:
 
-![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/67a164e8-ee6b-4c75-a4fe-dd33efd43b68)
+![image](https://github.com/dev-Youssef-Ahmed/Door-Locker-Security-System/assets/153888401/544aab00-2ea7-44c4-a745-136e6379545f)
 
 11. Door hold:
 
-![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/3c292ac3-e98f-4786-93d1-b7b2a7f5b65e)
+![image](https://github.com/dev-Youssef-Ahmed/Door-Locker-Security-System/assets/153888401/f18aaa3b-28b9-4056-8df1-e922778a08a5)
 
 12. Door close:
 
-![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/9f897e00-c822-41dd-9529-53802b332aec)
+![image](https://github.com/dev-Youssef-Ahmed/Door-Locker-Security-System/assets/153888401/ac0edd58-9a3b-4985-bdbb-0ad0f09a0fd7)
 
 13. Wrong password:
 
-![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/cb1d9c18-b9c3-4ae3-9da7-272055a5b4b7)
+![image](https://github.com/dev-Youssef-Ahmed/Door-Locker-Security-System/assets/153888401/5cb719b8-8435-4641-a2e4-19326fa75689)
 
 14. System locked:
 
-![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/95bde51d-7915-4c95-a301-51f6f6b94b7d)
+![image](https://github.com/dev-Youssef-Ahmed/Door-Locker-Security-System/assets/153888401/f4aa0d37-0adf-4b41-9475-05783a79628d)
