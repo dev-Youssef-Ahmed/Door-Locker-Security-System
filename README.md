@@ -18,7 +18,7 @@ There are two Electronic Control Units (ECUs) used here:
 
 > CONTROL_ECU HAL: BUZZER, EEPROM, and DC MOTOR.
 
-![Image](https://github.com/users/dev-Youssef-Ahmed/projects/1/assets/153888401/1c59b389-1d96-4cb3-a9c7-ad5fcf84e757)
+![image](https://github.com/dev-Youssef-Ahmed/Door-Locker-Security-System/assets/153888401/06c0634a-b373-4f17-a43d-4dc55eaab9d1)
 
 Here is the system sequence, HMI_ECU action start with letter "H" and CONTROL_ECU action "C". Be aware that at anytime one of ECUs is working, the other is polling and not doing any action; this to maintain a safe synchronization between them. Now, let us assume it is the first time to install the system and here are the sequences:
 
